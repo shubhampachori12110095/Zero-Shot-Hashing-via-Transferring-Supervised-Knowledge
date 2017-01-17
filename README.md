@@ -1,1 +1,1 @@
-# Zero-Shot-Hashing-via-Transferring-Supervised-Knowledge
+This is my implementation of the paper : Zero-Shot Hashing via Transferring Supervised Knowledge. The paper could be found at https://arxiv.org/abs/1606.05032. The codes uploaded are for the learning purpose. The algorithm belongs to the authors of the corresponding paper given to above and there is no contribution from my side to the paper. Contact me, if there is any discrepancy in the codes. 
